@@ -23,4 +23,4 @@ It predicts the approximate insurance cost based upon the features provided for 
 
 # Conclusion:
 
-Performed Base Linear Regression and Tuned using Ridge & Lasso Techniques. Out of Both, Ridge is giving the lowest RMSE (0.48) and R-Squared (0.709), Adj-R Squared (0.709) are Closed to each other.
+Performed Base Linear Regression and Tuned using Ridge & Lasso Techniques. Out of Both, Ridge is giving the lowest RMSE (0.48) and R-Squared (0.704), Adj-R Squared (0.703) are Closed to each other.
